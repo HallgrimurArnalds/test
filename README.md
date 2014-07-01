@@ -1,4 +1,5 @@
 test
 ====
 
-Til að prófa
+# Til að prófa
+# hallo.cpp
